@@ -1,1 +1,1 @@
-Sitemap: https://mpec-lab.github.io/lab-website/sitemap.xml
+Sitemap: https://mpec-lab.github.io/mpec-lab-website/sitemap.xml
